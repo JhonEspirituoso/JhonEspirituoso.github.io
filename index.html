@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!--Fontes Usadas-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto+Mono:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <!--Titulo da pág-->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Habits</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <header>
+      <!--Importando Imagens direto da pasta local-->
+      <img src="./assets/logo.svg" alt="Logo Do Habits" />
+      <button>
+        <img src="./assets/plus.svg" alt="Sinal de mais roxo" />
+
+        <div>Registrar o meu dia</div>
+      </button>
+    </header>
+    <form id="form-habits">
+      <!--Metas Diárias-->
+      <div class="habits">
+        <div class="habit" data-name="igreja">⛪</div>
+        <div class="habit" data-name="estudar">📘👨‍🎓</div>
+        <div class="habit" data-name="comerBem">🍎</div>
+        <div class="habit" data-name="falarComDaniel">🗣💗</div>
+        <div class="habit" data-name="academia">🏋️‍♀️</div>
+        <div class="habit" data-name="trabalhar">👩‍💼</div>
+      </div>
+      <!--Dias-->
+      <div class="days"></div>
+    </form>
+    <!--Adicionando uma Bibliotaca( A do rocketseat)-->
+    <script src="https://cdn.jsdelivr.net/gh/maykbrito/libs/NLWSetup/source/NLWSetup.js"></script>
+    <!--Linkando o Java Script com o HTML-->
+    <script src="./script.js"></script>
+  </body>
+</html>
