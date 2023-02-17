@@ -32,13 +32,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits doi feito com o intuito de ajudar você a formar ou controlar seus hábitos.
+O Habits foi feito com o intuito de ajudar você a formar ou controlar seus hábitos.
 
 - [Acesse o projeto finalizado, online](https://github.com/JhonEspirituoso/Primeiro-Projeto)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/lHyOKMfRjTmVakYpRX7X4H/Habits-(e)-(Community)?node-id=6%3A344&t=EOlioA3DnYs1wTsj-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/lHyOKMfRjTmVakYpRX7X4H/Habits-(e)-(Community)?node-id=6%3A344&t=EOlioA3DnYs1wTsj-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
