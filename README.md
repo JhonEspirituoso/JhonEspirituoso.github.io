@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits foi feito com o intuito de ajudar você a formar ou controlar seus hábitos.
 
-- [Acesse o projeto finalizado, online](https://github.com/JhonEspirituoso/Primeiro-Projeto)
+- [Acesse o projeto finalizado, online](https://JhonEspirituoso.github.io/nlw-setup)
 
 ## 🔖 Layout
 
